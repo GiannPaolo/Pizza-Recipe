@@ -213,7 +213,17 @@ html,body{
 .btn{
 	margin-top:10px;
 }
+.marg-ingre{
+	display:none;
+	transition: all 1s ease;
+	margin-top: 1rem;
+	margin-left: 0.5rem;
+	
+}
 
+#hide{
+	display:none;
+}
 
 
 
@@ -315,5 +325,3 @@ html,body{
 	}
 }
 
-
-  

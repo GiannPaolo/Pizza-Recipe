@@ -218,7 +218,8 @@ html,body{
 	margin-top:10px;
 }
 /* Ingredients for all pizza */
-.marg-ingre, .quattro-formaggi-ingre, .quattro-stagioni-ingre{
+.marg-ingre, .quattro-formaggi-ingre, .quattro-stagioni-ingre, .calzone-ingre, 
+.carretierra-ingre, .capricciosa-ingre, .patate-ingre, .ricola-ingre, .neapolitan-ingre{
 	display:none;
 	transition: all 1s ease;
 	margin-top: 1rem;
@@ -226,7 +227,9 @@ html,body{
 	
 }
 /* Hide button for pizza ingredients and instruction section */
-#hide-margherita, #hidebuttonquatro, #hidebuttonstagioni{
+#hide-margherita, #hidebuttonquatro, #hidebuttonstagioni, #hidebuttoncalzone,
+#hidebuttoncarretierra, #hidebuttoncapricciosa, #hidebuttonpat, 
+#hidebuttonricola, #hidebuttonneapolitan{
 	display:none;
 }
 
